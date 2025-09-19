@@ -1,4 +1,4 @@
-namespace Chess;
+namespace Chess.Pieces;
 
 internal interface IPiece
 {

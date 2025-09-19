@@ -1,4 +1,4 @@
-namespace Chess;
+namespace Chess.Pieces;
 
 internal class Rook : IPiece
 {
@@ -8,4 +8,5 @@ internal class Rook : IPiece
     {
         Colour = colour;
     }
+    public override string ToString() => "R";
 }
