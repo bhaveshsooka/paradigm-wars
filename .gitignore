@@ -1,3 +1,5 @@
+# Haskell
+
 data/
 dist
 dist-*
@@ -23,3 +25,11 @@ cabal.project.local~
 .HTF/
 .ghc.environment.*
 .env
+
+# Dotnet
+obj/
+bin/
+.idea
+
+# OS
+.DS_Store
